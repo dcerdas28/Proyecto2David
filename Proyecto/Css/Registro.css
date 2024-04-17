@@ -1,0 +1,19 @@
+﻿.container {
+    max-width: 500px; /* Ancho máximo del formulario */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+/* Estilo para el cuerpo del documento */
+body {
+    background-color: #f8f9fa; /* Color de fondo del cuerpo */
+}
+
+
+.centro {
+
+    text-align:center;
+}

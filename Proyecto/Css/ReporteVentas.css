@@ -1,0 +1,41 @@
+﻿#MainContent_GridViewVentas {
+    margin-top:10px;
+    margin: auto;
+    width: 80%;
+    border-collapse: collapse;
+}
+
+    #MainContent_GridViewVentas th {
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 8px;
+    }
+
+
+#MainContent_GridViewVentas td {
+    font-size: 16px;
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.form-group {
+    margin-bottom: 10px;
+    display: inline-block; /* Alinea los elementos en línea */
+    vertical-align: top; /* Alinea los elementos verticalmente */
+}
+
+label {
+    display: inline-block;
+    width: 120px; /* Ancho fijo para las etiquetas */
+    text-align: right;
+    margin-right: 10px;
+}
+
+input[type="text"],
+select {
+    width: 200px; /* Ancho fijo para los inputs y dropdowns */
+    height: 10px; /* Altura fija para los inputs y dropdowns */
+    box-sizing: border-box; /* Incluye padding y borde en el ancho total */
+}

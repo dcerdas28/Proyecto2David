@@ -1,0 +1,25 @@
+﻿#MainContent_GridViewProductos {
+    margin: auto;
+    width: 80%;
+    border-collapse: collapse;
+}
+
+    #MainContent_GridViewProductos th {
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 8px;
+    }
+
+
+    #MainContent_GridViewProductos td {
+        font-size:16px;
+        text-align: center;
+        padding: 8px;
+        border: 1px solid #ccc;
+    }
+
+
+#btnCrearProducto{
+    text-align:center;
+}
